@@ -1,0 +1,6 @@
+::__:: POW 
+<
+
+read.tell "meow cat"
+
+>
